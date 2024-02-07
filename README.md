@@ -8,3 +8,6 @@
 - Postcss
 - Autoprefixer
 - Radix
+- Date-fns
+- Lucide React
+- Sonner
